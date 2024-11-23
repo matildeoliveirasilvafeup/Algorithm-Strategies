@@ -105,11 +105,11 @@ Com base no progresso até ao momento, o nosso objetivo é implementar as seguin
 
 ![IMG-20241122-WA0043](https://github.com/user-attachments/assets/f2463dae-0122-4e67-853d-b8d77d8df71f)
 
--Game Over, demonstração com a implementação de "picos" que a dificuldade acresce com este novo obstáculo.
+-Game Over caso personagem não salte, demonstração com a implementação de "picos" que a dificuldade acresce com este novo obstáculo.
 
 ![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
 
--Game Over, demonstração com a implementação de "picos" e "arbusto verde com olhos" que a dificuldade acresce ainda mais com este novo obstáculo além do já existente, os "picos".
+-Game Over caso personagem não salte, demonstração com a implementação de "picos" e "arbusto verde com olhos" que a dificuldade acresce ainda mais com este novo obstáculo além do já existente, os "picos".
 
 ![arbusto](https://github.com/user-attachments/assets/a5e4562b-cb3e-4b11-b1e4-a685c5a6016f)
 
