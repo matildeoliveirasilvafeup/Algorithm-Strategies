@@ -10,14 +10,11 @@ Até ao momento, conseguimos implementar algumas funcionalidades fundamentais do
 ## **Funcionalidades Implementadas até ao Momento e que irão ser implementadas até à Data de Entrega Final do Trabalho**
 
 ### **Movimentação da Personagem**
-- O jogador pode controlar a personagem através das teclas do teclado:
+- O jogador pode controlar a personagem através das teclas **WASD**:
   - **W**: para saltar.
   - **A**: para mover para a esquerda.
   - **D**: para mover para a direita.
   - **S**: para parar.
-(?)
-(VER ATÉ SGEUNDA SE É COM WADS OU COM SETAS DO TECLADO)(?)
-No jogo, o controlo é feito com as teclas **WASD**.
 
 ### **Apanhar Moedas**
 - A personagem irá recolher moedas espalhadas pelo cenário, acumulando pontos no sistema de **Score**.
