@@ -7,7 +7,7 @@ Até ao momento, conseguimos implementar algumas funcionalidades fundamentais do
 
 ---
 
-## **Funcionalidades Implementadas até ao Momento e que Iremos Implementar até à Data de Entrega Final do Trabalho**
+## **Funcionalidades Implementadas até ao Momento e que irão ser implementadas até à Data de Entrega Final do Trabalho**
 
 ### **Movimentação da Personagem**
 - O jogador pode controlar a personagem através das teclas do teclado:
@@ -38,8 +38,7 @@ No menu, a interação é realizada através do **mouse** ou **touchpad**.
 As próximas etapas do desenvolvimento incluirão as seguintes adições:
 
 ### **Novos Obstáculos para Aumento Gradual da Dificuldade**  
-(?) **VER ATÉ SEGUNDA SE JÁ SE IMPLEMENTOU ISTO** (?)
-- A introdução de obstáculos adicionais, como **picos**, fará com que, caso o personagem caia sobre eles, se não saltar no tempo correto, e precise recomeçar.
+- A introdução de obstáculos adicionais, como **picos**, fará com que, caso a personagem caia sobre eles, se não saltar no tempo correto, e precise recomeçar.
 - Implementação de obstáculos com aparência semelhante a um arbusto com olhos, que introduzirão um elemento visual e funcional ao jogo, de forma a aumentar o nível de dificuldade à medida que o jogador avança pelos diferentes níveis.
 
 ---
@@ -87,7 +86,7 @@ Com base no progresso até ao momento, o nosso objetivo é implementar as seguin
 
 ## **Mockups da personagem e de etapas do jogo (*):**
 - Menu (demonstração).
-  ![menu](https://github.com/user-attachments/assets/501d3165-5200-49b9-a5f6-4e902b68fd02)
+![menu_este](https://github.com/user-attachments/assets/1ad101d7-86f5-42a4-819a-33d75dce36e7)
 
 -Running in Front, a partir da tecla D para se mover para a direita (demonstração).
 
