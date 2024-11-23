@@ -86,6 +86,9 @@ Com base no progresso até ao momento, o nosso objetivo é implementar as seguin
 
 
 ## **Mockups da personagem e de etapas do jogo (*):**
+- Menu
+  ![menu](https://github.com/user-attachments/assets/501d3165-5200-49b9-a5f6-4e902b68fd02)
+
 -Running in Front, a partir da tecla D para se mover para a direita.
 
 ![IMG-20241122-WA0041](https://github.com/user-attachments/assets/0b8ce8d4-558f-44f1-af59-c7de05402c76)
@@ -106,4 +109,9 @@ Com base no progresso até ao momento, o nosso objetivo é implementar as seguin
 
 ![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
 
--Game Over, demonstração com a implementação de "picos" e "arbustro verde com olhos" que a dificuldade acresce ainda mais com este novo obstáculo além do já existente, os "picos".
+-Game Over, demonstração com a implementação de "picos" e "arbusto verde com olhos" que a dificuldade acresce ainda mais com este novo obstáculo além do já existente, os "picos".
+
+![arbusto](https://github.com/user-attachments/assets/a5e4562b-cb3e-4b11-b1e4-a685c5a6016f)
+
+
+
