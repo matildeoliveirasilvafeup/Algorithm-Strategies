@@ -85,16 +85,20 @@ Com base no progresso até ao momento, o nosso objetivo é implementar as seguin
 
 
 
-Mockups da personagem:
-Jump, a partir da tecla W para saltar.
-![IMG-20241122-WA0039](https://github.com/user-attachments/assets/06c21202-536e-4f2a-9ad9-141dc0c18e96)
-Game Over, demonstração com a implementação de "picos" que a dificuldade acresce com este novo obstáculo.
-![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
-Running in Front, a partir da tecla D para se mover para a direita.
+## **Mockups da personagem:**
+-Running in Front, a partir da tecla D para se mover para a direita.
 ![IMG-20241122-WA0041](https://github.com/user-attachments/assets/0b8ce8d4-558f-44f1-af59-c7de05402c76)
-Running backwards, a partir da tecla A para se mover para a esquerda.
-![IMG-20241122-WA0042](https://github.com/user-attachments/assets/3948330a-c2c4-4b2c-ab3b-4f9f21d9810d)
-Game Over, demonstração com a implementação de "picos" e "arbustro verde com olhos" que a dificuldade acresce ainda mais com este novo obstáculo além do já existente, os "picos".
 
-Collecting coins
+-Running backwards, a partir da tecla A para se mover para a esquerda.
+![IMG-20241122-WA0042](https://github.com/user-attachments/assets/3948330a-c2c4-4b2c-ab3b-4f9f21d9810d)
+
+-Jump, a partir da tecla W para saltar.
+![IMG-20241122-WA0039](https://github.com/user-attachments/assets/06c21202-536e-4f2a-9ad9-141dc0c18e96)
+
+-Collecting coins (demonstração)
 ![IMG-20241122-WA0043](https://github.com/user-attachments/assets/f2463dae-0122-4e67-853d-b8d77d8df71f)
+
+-Game Over, demonstração com a implementação de "picos" que a dificuldade acresce com este novo obstáculo.
+![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
+
+-Game Over, demonstração com a implementação de "picos" e "arbustro verde com olhos" que a dificuldade acresce ainda mais com este novo obstáculo além do já existente, os "picos".
