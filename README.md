@@ -7,7 +7,7 @@ Até ao momento, conseguimos implementar algumas funcionalidades fundamentais do
 
 ---
 
-## **Funcionalidades Implementadas até ao Momento e que irão ser implementadas até à Data de Entrega Final do Trabalho**
+## **Funcionalidades implementadas até ao momento e funcionalidades que irão ser implementadas até à data de entrega final do trabalho**
 
 ### **Movimentação da Personagem**
 - O jogador pode controlar a personagem através das teclas **WASD**:
