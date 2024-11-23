@@ -86,30 +86,30 @@ Com base no progresso até ao momento, o nosso objetivo é implementar as seguin
 
 
 ## **Mockups da personagem e de etapas do jogo (*):**
-- Menu
+- Menu (demonstração).
   ![menu](https://github.com/user-attachments/assets/501d3165-5200-49b9-a5f6-4e902b68fd02)
 
--Running in Front, a partir da tecla D para se mover para a direita.
+-Running in Front, a partir da tecla D para se mover para a direita (demonstração).
 
 ![IMG-20241122-WA0041](https://github.com/user-attachments/assets/0b8ce8d4-558f-44f1-af59-c7de05402c76)
 
--Running backwards, a partir da tecla A para se mover para a esquerda.
+-Running backwards, a partir da tecla A para se mover para a esquerda (demonstração).
 
 ![IMG-20241122-WA0042](https://github.com/user-attachments/assets/3948330a-c2c4-4b2c-ab3b-4f9f21d9810d)
 
--Jump, a partir da tecla W para saltar.
+-Jump, a partir da tecla W para saltar (demonstração).
 
 ![IMG-20241122-WA0039](https://github.com/user-attachments/assets/06c21202-536e-4f2a-9ad9-141dc0c18e96)
 
--Collecting coins (demonstração)
+-Collecting coins (demonstração).
 
 ![IMG-20241122-WA0043](https://github.com/user-attachments/assets/f2463dae-0122-4e67-853d-b8d77d8df71f)
 
--Game Over caso personagem não salte, demonstração com a implementação de "picos" que a dificuldade acresce com este novo obstáculo.
+-Game Over caso personagem não salte, com a implementação de "picos" mostra-se que a dificuldade acresce com este novo obstáculo. (demonstração)
 
 ![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
 
--Game Over caso personagem não salte, demonstração com a implementação de "picos" e "arbusto verde com olhos" que a dificuldade acresce ainda mais com este novo obstáculo além do já existente, os "picos".
+-Game Over caso personagem não salte, com a implementação de "picos" e "arbusto verde com olhos" mostra-se que a dificuldade acresce ainda mais com este novo obstáculo além do já existente, os "picos".(demonstração)
 
 ![arbusto](https://github.com/user-attachments/assets/a5e4562b-cb3e-4b11-b1e4-a685c5a6016f)
 
