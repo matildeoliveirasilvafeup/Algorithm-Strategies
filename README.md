@@ -2,7 +2,7 @@
 
 # **Entrega Intermédia do Relatório do Projeto de LDTS**
 
-## **Descrição Geral**
+## **Descrição**
 Até ao momento, conseguimos implementar algumas funcionalidades fundamentais para este projeto e estabelecer uma estrutura sólida para o design e as mecânicas de jogo. Este relatório da entrega intermédia detalha as funcionalidades já implementadas, as planeadas e os padrões de design que decidimos adotar.
 
 ---
