@@ -20,8 +20,7 @@ Até ao momento, conseguimos implementar algumas funcionalidades fundamentais do
 - A personagem irá recolher moedas espalhadas pelo cenário, acumulando pontos no sistema de **Score**.
 
 ### **Menu do Jogo**  
-(?) **VER ATÉ SEGUNDA SE JÁ SE IMPLEMENTOU ISTO** (?)
-O menu inicial do jogo irá dispor de três opções principais:
+O menu inicial do jogo dispõe de três opções principais:
 - **Play**: para iniciar o jogo.
 - **Score**: para visualizar a quantidade de moedas recolhidas.
 - **Levels**: para aceder aos diferentes níveis do jogo.
