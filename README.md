@@ -75,11 +75,6 @@ Com base no progresso até ao momento, o nosso objetivo é implementar as seguin
 
 ---
 
-### Notas:
-- **(?) VER ATÉ SEGUNDA SE JÁ SE IMPLEMENTOU ISTO (?)**: Fica a indicação para verificar até a data limite se os itens relacionados ao **Menu do Jogo** e aos **Novos Obstáculos** (picos) já estão implementados ou se ainda são necessários para a entrega intermédia.
-
-
-
 ## **Mockups da personagem e de etapas do jogo (*):**
 - Menu (demonstração).
 ![menu_este](https://github.com/user-attachments/assets/1ad101d7-86f5-42a4-819a-33d75dce36e7)
