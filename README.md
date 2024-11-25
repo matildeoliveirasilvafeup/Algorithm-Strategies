@@ -10,11 +10,10 @@ Até ao momento, conseguimos implementar algumas funcionalidades fundamentais pa
 ## **Funcionalidades implementadas até ao momento e funcionalidades que irão ser implementadas até à data de entrega final do trabalho**
 
 ### **Movimentação da Personagem**
-- O jogador pode controlar a personagem através das teclas **WASD**:
+- O jogador pode controlar a personagem através das teclas **WAD**:
   - **W**: para saltar.
   - **A**: para mover para a esquerda.
   - **D**: para mover para a direita.
-  - **S**: para parar.
 
 ### **Apanhar Moedas**
 - A personagem irá recolher moedas espalhadas pelo cenário, acumulando pontos no sistema de **Score**.
@@ -25,7 +24,7 @@ O menu inicial do jogo dispõe de três opções principais:
 - **Score**: para visualizar a quantidade de moedas recolhidas.
 - **Levels**: para aceder aos diferentes níveis do jogo.
 
-No menu, a interação é realizada através do **mouse** ou **touchpad**.
+No menu, a interação é realizada através da seta para cima e para baixo.
 
 ---
 
@@ -46,7 +45,7 @@ As próximas etapas do desenvolvimento incluirão as seguintes adições:
 Assegurámos que todas as imagens da personagem estão preparadas no formato correto (PNG) e que possuem as dimensões adequadas (16x16 pixels). Os restantes mockups mostram as fases do jogo, estas dimensionadas a 64x64 pixels.
 
 ### **Interface do Utilizador**
-- A interação no **jogo** é realizada com as teclas **WASD**, enquanto no **menu** é feita através do **mouse** ou **touchpad**, como referido anteriormente.
+- A interação no **jogo** é realizada com as teclas **WAD**, enquanto no **menu** é feita através da seta para baixo e para cima, como referido anteriormente.
 
 ---
 
