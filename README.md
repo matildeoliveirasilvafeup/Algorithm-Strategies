@@ -43,7 +43,7 @@ As próximas etapas do desenvolvimento incluirão as seguintes adições:
 
 ### **Mockups em Pixel Art (*)**
 - Utilizámos **mockups** em pixel art para representar a personagem, as moedas, os obstáculos e os diversos cenários do jogo.  
-Assegurámos que todas as imagens da personagem estão preparadas no formato correto (PNG) e que possuem as dimensões adequadas (16x16 pixels).
+Assegurámos que todas as imagens da personagem estão preparadas no formato correto (PNG) e que possuem as dimensões adequadas (16x16 pixels). Os restantes mockups mostram as fases do jogo, estas dimensionadas a 64x64 pixels.
 
 ### **Interface do Utilizador**
 - A interação no **jogo** é realizada com as teclas **WASD**, enquanto no **menu** é feita através do **mouse** ou **touchpad**, como referido anteriormente.
