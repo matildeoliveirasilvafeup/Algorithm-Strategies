@@ -48,7 +48,8 @@ Introduziu-se elementos gráficos para melhorar a experiência visual do jogo.
 
 ---
 
-2. ??## **Design**
+2. ??
+## **Design**
 ##**UML** ???
 ### **Estrutura Geral**
 3.??
