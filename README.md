@@ -60,7 +60,7 @@ A criação de um ambiente interativo e dinâmico foi um desafio, especialmente 
 ####**Mockups em Pixel Art**
 -	Utilizámos mockups em pixel art para representar a personagem, as moedas, os obstáculos e os diversos cenários do jogo.
 Assegurámos que todas as imagens da personagem estão preparadas no formato correto (PNG) e que possuem as dimensões adequadas (16x16 pixels). Os restantes mockups mostram as fases do jogo, estas dimensionadas a 64x64 pixels.
-## **Mockups da personagem e de etapas do jogo (*):**
+## **Mockups da personagem e de etapas do jogo**:
 -Menu (demonstração). 
 ![menu_este](https://github.com/user-attachments/assets/1ad101d7-86f5-42a4-819a-33d75dce36e7)
 -Running in Front, a partir da tecla D para se mover para a direita (demonstração em pixel art 16x16). 
