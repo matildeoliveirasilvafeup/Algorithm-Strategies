@@ -2,7 +2,7 @@
 
 ## **Descrição do Jogo**
 
-O **RUNCOLLECTOR** é um jogo em que o jogador assume o papel de uma personagem que deve atravessar níveis repletos de obstáculos, especialmente picos afiados. A principal tarefa é evitar o contacto com esses picos, uma vez que tocá-los resulta em perda de progresso, e num Game Over. Ao longo do jogo, o jogador deve recolher moedas espalhadas pelos diferentes cenários, o que leva ao aumento da pontuação. Com o avanço nos níveis, a dificuldade cresce, aumentando a complexidade do jogo. O objetivo do jogo é o jogador então ultrapassar os obstáculos e recolher o maior número possível de moedas, enquanto tenta alcançar o melhor resultado possível.
+O **RUNCOLLECTOR** é um jogo em que o jogador assume o papel de uma personagem que deve atravessar níveis com obstáculos, especialmente picos afiados. A principal tarefa é evitar o contacto com esses picos, uma vez que tocá-los resulta em perda de progresso, e num Game Over. Ao longo do jogo, o jogador deve recolher moedas espalhadas pelos diferentes cenários, o que leva ao aumento da pontuação. Com o avanço nos níveis, a dificuldade cresce, aumentando a complexidade do jogo. O objetivo do jogo é o jogador então ultrapassar os obstáculos e recolher o maior número possível de moedas, enquanto tenta alcançar o melhor resultado possível.
 
 Este projeto foi desenvolvido por Matilde Silva (up202305722@edu.fe.up.pt), Tiago Almeida (up202303450@edu.fe.up.pt) e Sérgio Almeida (up202305946@edu.fe.up.pt) para a disciplina de LDTS 2024, na FEUP.
 
