@@ -6,8 +6,7 @@
 
 **RunCollector** is a 2D platformer game where the player collects coins while navigating through levels filled with sharp spikes. The main objective is to collect as many coins as possible while avoiding obstacles that could lead to a **Game Over**. With increasing difficulty across levels, the game challenges the player to achieve the highest possible score.
 
-> Developed by **Matilde Silva** (up202305722@edu.fe.up.pt), **Tiago Almeida** (up202303450@edu.fe.up.pt), and **Sérgio Almeida** (up202305946@edu.fe.up.pt) for **LDTS 2024** at **FEUP**.
-
+> Developed by **Matilde Silva** (up202305722@edu.fe.up.pt), **Sérgio Almeida** (up202305946@edu.fe.up.pt), and **Tiago Almeida** (up202303450@edu.fe.up.pt) for **LDTS 2024** at **FEUP**.
 ---
 
 ## **IMPLEMENTED FEATURES**
@@ -20,9 +19,9 @@
 * **Main Menu**:
   * Navigate with arrow keys (up and down).
   * Options:
-    * **Play**: Start the game.
-    * **Score**: View collected coins.
-    * **Levels**: Access different levels.
+    * **Play**: Start the game
+    * **Exit**: Exit the game
+    * **Levels**: Access different levels
 
 * **User Interaction**:
   * Use `W`, `A`, `D` for in-game actions.
@@ -60,6 +59,18 @@
   * Used pixel art mockups for characters, coins, obstacles, and various scenarios.
   * Character images: **16x16 pixels**.
   * Game levels: **64x64 pixels**.
+    * Characters and level design created with pixel art:
+-Menu
+-Running in Front (D)
+![IMG-20241122-WA0041](https://github.com/user-attachments/assets/0b8ce8d4-558f-44f1-af59-c7de05402c76)
+-Running backwards (A)
+![IMG-20241122-WA0042](https://github.com/user-attachments/assets/3948330a-c2c4-4b2c-ab3b-4f9f21d9810d)
+-Jump (W)
+![IMG-20241122-WA0039](https://github.com/user-attachments/assets/06c21202-536e-4f2a-9ad9-141dc0c18e96)
+-Collecting coins 
+![IMG-20241122-WA0043](https://github.com/user-attachments/assets/f2463dae-0122-4e67-853d-b8d77d8df71f)
+-Game Over
+![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
 
 ### **Design Patterns**
 
@@ -118,22 +129,6 @@
 ---
 
 ## **RESOURCES**
-
-* **Mockups**:
-  * Characters and level design created with pixel art:
--Menu (demonstração). 
-![menu_este](https://github.com/user-attachments/assets/1ad101d7-86f5-42a4-819a-33d75dce36e7)
--Running in Front, a partir da tecla D para se mover para a direita (demonstração em pixel art 16x16). 
-![IMG-20241122-WA0041](https://github.com/user-attachments/assets/0b8ce8d4-558f-44f1-af59-c7de05402c76)
--Running backwards, a partir da tecla A para se mover para a esquerda (demonstração em pixel art 16x16).
-![IMG-20241122-WA0042](https://github.com/user-attachments/assets/3948330a-c2c4-4b2c-ab3b-4f9f21d9810d)
--Jump, a partir da tecla W para saltar (demonstração em pixel art 16x16).
-![IMG-20241122-WA0039](https://github.com/user-attachments/assets/06c21202-536e-4f2a-9ad9-141dc0c18e96)
--Collecting coins (demonstração em pixel art 64x64).
-![IMG-20241122-WA0043](https://github.com/user-attachments/assets/f2463dae-0122-4e67-853d-b8d77d8df71f)
--Game Over caso personagem não salte, com a implementação de "picos" mostra-se que a dificuldade acresce com este novo obstáculo. (demonstração em pixel art 64x64)
-![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
-
 
 * **Tools**:
   * **Lanterna**: Used for graphical interface and gameplay rendering.
@@ -198,6 +193,6 @@ Todos os erros conhecidos foram corrigidos, e não há problemas significativos 
 A distribuição de tarefas foi feita de forma ??. Este trabalho ajudou a melhorar os nossos conhecimentos em Java e em princípios de design.
 
 - **Matilde Silva**: ?%
-- **Tiago Almeida**: ?%
 - **Sérgio Almeida**: ?%
+- **Tiago Almeida**: ?%
 
