@@ -57,6 +57,7 @@ FAZER
     
     Characters and level design created with pixel art:
     -Menu
+    ![IMG-20241217-WA0010](https://github.com/user-attachments/assets/6a8f33c1-c9c2-4e32-b5cd-518d36dc4fc5)
     -Running in Front (D)
     ![IMG-20241122-WA0041](https://github.com/user-attachments/assets/0b8ce8d4-558f-44f1-af59-c7de05402c76)
     -Running backwards (A)
@@ -65,7 +66,7 @@ FAZER
     ![IMG-20241122-WA0039](https://github.com/user-attachments/assets/06c21202-536e-4f2a-9ad9-141dc0c18e96)
     -Collecting coins 
     ![IMG-20241122-WA0043](https://github.com/user-attachments/assets/f2463dae-0122-4e67-853d-b8d77d8df71f)
-    -Game Over
+    -How to lose
     ![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
 
 
