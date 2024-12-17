@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-<img src="![IMG-20241217-WA0012](https://github.com/user-attachments/assets/2a55d3d7-4e24-4259-bc18-be80ece03937)"/> 
+  <img src="https://github.com/user-attachments/assets/2a55d3d7-4e24-4259-bc18-be80ece03937" alt="Logo do Jogo"/>
 </p>
 
 ## **EM FALTA: IMPLEMENTED FEATURES, MOCKUPS, TESTS, UML, SELF EVALUATION**
