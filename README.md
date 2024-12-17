@@ -1,5 +1,5 @@
 <h1 align="center">
-  LDTS_L01G07 - RunCollector
+  LDTS_L03G05 - RunCollector
 </h1>
 
 ## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: IMPLEMENTED FEATURES, MOCKUPS, TESTS, UML, SELF EVALUATION**
