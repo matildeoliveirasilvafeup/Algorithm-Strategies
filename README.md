@@ -2,11 +2,12 @@
   LDTS_L01G07 - RunCollector
 </h1>
 
+## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: IMPLEMENTED FEATURES, MOCKUPS, TESTS, UML, SELF EVALUATION**
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2a55d3d7-4e24-4259-bc18-be80ece03937" alt="Logo do Jogo"/>
 </p>
 
-## **EM FALTA: IMPLEMENTED FEATURES, MOCKUPS, TESTS, UML, SELF EVALUATION**
 
 **RunCollector** is a game where players collect coins while navigating through levels filled with sharp spikes and other hazards. The main objective is to gather as many coins as possible while skillfully avoiding obstacles that could lead to a Game Over. With progressively difficulty, **RunCollector** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score.
 
