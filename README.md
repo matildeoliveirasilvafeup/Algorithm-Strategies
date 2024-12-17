@@ -32,7 +32,7 @@
 * **Collision Detection**:
   * Detects when the player touches spikes, restarting the level.
 
-* **Multiple Levels**:
+* **Levels**:
   * Progressive difficulty with increasingly challenging obstacles.
 
 ---
