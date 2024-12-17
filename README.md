@@ -36,9 +36,6 @@
 * **Levels**:
   * Progressive difficulty with increasingly challenging obstacles.
 
----
-
-## **IMPLEMENTED FEATURES**
 FAZER
 
 ---
