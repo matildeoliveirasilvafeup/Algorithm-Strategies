@@ -54,8 +54,7 @@ FAZER
   * Used pixel art mockups for characters, coins, obstacles, and various scenarios.
   * Character images: **16x16 pixels**.
   * Game levels: **64x64 pixels**.
-    
-    Characters and level design created with pixel art:
+  Characters and level design created with pixel art:
     -Menu
     ![IMG-20241217-WA0010](https://github.com/user-attachments/assets/6a8f33c1-c9c2-4e32-b5cd-518d36dc4fc5)
     -Running in Front (D)
