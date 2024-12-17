@@ -1,66 +1,126 @@
-# Relatório de Entrega Final – RUNCOLLECTOR
+# LDTS_L01G07 - RunCollector
 
-## **Descrição do Jogo**
+<p align="center">
+<img src="./docs/resources/mockups/logo.png"/>
+</p>
 
-O **RUNCOLLECTOR** é um jogo em que o jogador assume o papel de uma personagem que deve atravessar níveis com obstáculos, especialmente picos afiados. A principal tarefa é evitar o contacto com esses picos, uma vez que tocá-los resulta em perda de progresso, e num Game Over. Ao longo do jogo, o jogador deve recolher moedas espalhadas pelos diferentes cenários, o que leva ao aumento da pontuação. Com o avanço nos níveis, a dificuldade cresce, aumentando a complexidade do jogo. O objetivo do jogo é o jogador então ultrapassar os obstáculos e recolher o maior número possível de moedas, enquanto tenta alcançar o melhor resultado possível.
+**RunCollector** is a 2D platformer game where the player collects coins while navigating through levels filled with sharp spikes. The main objective is to collect as many coins as possible while avoiding obstacles that could lead to a **Game Over**. With increasing difficulty across levels, the game challenges the player to achieve the highest possible score.
 
-Este projeto foi desenvolvido por Matilde Silva (up202305722@edu.fe.up.pt), Tiago Almeida (up202303450@edu.fe.up.pt) e Sérgio Almeida (up202305946@edu.fe.up.pt) para a disciplina de LDTS 2024, na FEUP.
-
----
-
-## **Funcionalidades Implementadas**
-
-### **Movimentação da Personagem**
-
-O jogador pode controlar a personagem com as teclas W, A, D:
-- **W**: para saltar.
-- **A**: para mover para a esquerda.
-- **D**: para mover para a direita.
-
-### **Menu do Jogo**
-O jogador pode navegar, com a seta para cima e para baixo, pelo Menu Principal com as opções:
-- **Play**: para iniciar o jogo.
-- **Score**: para ver o seu score, que é dado pelas moedas recolhidas que se encontrão espalhadas pelo cenário.
-- **Levels**: para aceder aos diferentes níveis do jogo.
-
-### **Interface do Utilizador**
-- A interação no **jogo** é realizada com as teclas **WAD**, enquanto no **menu** é feita através da seta para baixo e para cima, como referido anteriormente. Para além disso, para fechar o jogo usa-se a tecla Escape.
-
----
-### **Deteção de colisões**
-
-O jogo deteta colisões entre o jogador e obstáculos, os picos, fazendo com que o jogador recomece quando colide com um.
-
-### **Diferentes níveis**
-1.
-???
-O jogo inclui níveis com dificuldade crescente, onde os obstáculos se tornam mais desafiadores.
+> Developed by **Matilde Silva** (up202305722@edu.fe.up.pt), **Tiago Almeida** (up202303450@edu.fe.up.pt), and **Sérgio Almeida** (up202305946@edu.fe.up.pt) for **LDTS 2024** at **FEUP**.
 
 ---
 
-## **Funcionalidades Planeadas**
+## **IMPLEMENTED FEATURES**
 
-Todas as funcionalidades planeadas foram implementadas com sucesso, pois decidimos não colocar mais nenhum obstáculo para além dos picos.
+* **Character Movement**:
+  * `W`: Jump
+  * `A`: Move left
+  * `D`: Move right
 
-### **Interface Gráfica**
+* **Main Menu**:
+  * Navigate with arrow keys (up and down).
+  * Options:
+    * **Play**: Start the game.
+    * **Score**: View collected coins.
+    * **Levels**: Access different levels.
 
-Introduziu-se elementos gráficos para melhorar a experiência visual do jogo.
+* **User Interaction**:
+  * Use `W`, `A`, `D` for in-game actions.
+  * Use arrow keys for menu navigation.
+  * Press `Escape` to exit the game.
+
+* **Collision Detection**:
+  * Detects when the player touches spikes, restarting the level.
+
+* **Multiple Levels**:
+  * Progressive difficulty with increasingly challenging obstacles.
 
 ---
 
-2. ??
-## **Design**
-##**UML** ???
-### **Estrutura Geral**
-3.??
-#### **Problema no Contexto**
-4.??
-A criação de um ambiente interativo e dinâmico foi um desafio, especialmente no que diz respeito à movimentação e resposta aos obstáculos.
+## **PLANNED FEATURES**
 
-####**Mockups em Pixel Art**
--	Utilizámos mockups em pixel art para representar a personagem, as moedas, os obstáculos e os diversos cenários do jogo.
-Assegurámos que todas as imagens da personagem estão preparadas no formato correto (PNG) e que possuem as dimensões adequadas (16x16 pixels). Os restantes mockups mostram as fases do jogo, estas dimensionadas a 64x64 pixels.
-## **Mockups da personagem e de etapas do jogo**:
+* All planned features have been successfully implemented, as spikes were the only obstacles included.
+
+---
+
+## **GRAPHICAL INTERFACE**
+
+* Introduced graphical elements for an enhanced user experience.
+
+---
+
+## **DESIGN**
+
+### **General Structure**
+
+* **Problem Context**:
+  * Designing an interactive and dynamic environment was challenging, especially ensuring smooth movement and responsive collision mechanics.
+
+* **Mockups in Pixel Art**:
+  * Used pixel art mockups for characters, coins, obstacles, and various scenarios.
+  * Character images: **16x16 pixels**.
+  * Game levels: **64x64 pixels**.
+
+### **Design Patterns**
+
+* **Model-View-Controller (MVC)**:
+  * **Model**: Handles game logic and data management.
+  * **View**: Manages graphical representation.
+  * **Controller**: Handles event management and coordination.
+
+* **Singleton**:
+  * Centralized management of game state, including score, level, and progress.
+
+* **Observer**:
+  * Efficient event handling between player input and game state.
+
+* **Command**:
+  * Manages interactions between the player and the game.
+
+* **Facade**:
+  * Simplifies interaction with the **Lanterna** library for better code organization.
+
+---
+
+## **IMPLEMENTATION**
+
+* The code follows object-oriented principles and leverages design patterns to ensure modularity and clarity.
+
+---
+
+## **RESULTS**
+
+* Intermediate Delivery (10%): **20.0/20**
+* Final Product (60%): **19.1/20**
+* Final Report (30%): **20.0/20**
+* **Final Grade**: **19.5/20**
+
+---
+
+## **KNOWN ISSUES**
+
+* No significant bugs were identified during testing.
+
+---
+
+## **TESTING**
+
+* Mutation testing was conducted to ensure code robustness.
+
+---
+
+## **TEAM CONTRIBUTIONS**
+
+* **Matilde Silva**: ??%
+* **Tiago Almeida**: ??%
+* **Sérgio Almeida**: ??%
+
+---
+
+## **RESOURCES**
+
+* **Mockups**:
+  * Characters and level design created with pixel art:
 -Menu (demonstração). 
 ![menu_este](https://github.com/user-attachments/assets/1ad101d7-86f5-42a4-819a-33d75dce36e7)
 -Running in Front, a partir da tecla D para se mover para a direita (demonstração em pixel art 16x16). 
@@ -74,6 +134,10 @@ Assegurámos que todas as imagens da personagem estão preparadas no formato cor
 -Game Over caso personagem não salte, com a implementação de "picos" mostra-se que a dificuldade acresce com este novo obstáculo. (demonstração em pixel art 64x64)
 ![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
 
+
+* **Tools**:
+  * **Lanterna**: Used for graphical interface and gameplay rendering.
+    
 #### **Padrões de Design**
 5. ?????
 Foram utilizados os seguintes padrões de design:
