@@ -1,4 +1,3 @@
-# LDTS_L01G07 - RunCollector
 
 <p align="center">
 <img src=""/>   meter imagem do logo do jogo
