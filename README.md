@@ -6,7 +6,7 @@
 <img src=""/>   meter imagem do logo do jogo
 </p>
 
-**RunCollector** is a game where the player collects coins while navigating through levels filled with sharp spikes. The main objective is to collect as many coins as possible while avoiding obstacles that could lead to a Game Over. With increasing difficulty across levels, the game challenges the player to achieve the highest possible score.
+**RunCollector** is a game where players collect coins while navigating through levels filled with sharp spikes and other hazards. The main objective is to gather as many coins as possible while skillfully avoiding obstacles that could lead to a Game Over. With progressively difficulty, **RunCollector** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score.
 
 > Developed by **Matilde Silva** (up202305722@edu.fe.up.pt), **Sérgio Almeida** (up202305946@edu.fe.up.pt), and **Tiago Almeida** (up202303450@edu.fe.up.pt) for **LDTS 2024** at **FEUP**.
 ---
@@ -38,15 +38,8 @@
 
 ---
 
-## **PLANNED FEATURES**
-
-* All planned features have been successfully implemented, as spikes were the only obstacles included.
-
----
-
-## **GRAPHICAL INTERFACE**
-
-* Introduced graphical elements for an enhanced user experience.
+## **IMPLEMENTED FEATURES**
+FAZER
 
 ---
 
@@ -97,12 +90,6 @@
 
 ---
 
-## **IMPLEMENTATION**
-
-* The code follows object-oriented principles and leverages design patterns to ensure modularity and clarity.
-  
----
-
 ## **KNOWN ISSUES**
 
 * No significant bugs were identified during testing.
@@ -110,6 +97,7 @@
 ---
 
 ## **TESTING**
+FAZER
 
 * Mutation testing was conducted to ensure code robustness.
 
@@ -122,7 +110,11 @@
     
 ---
 
+## **UML CLASS STRUCTURES AND OVERVIEW**
+FAZER
+
 ## **TEAM CONTRIBUTIONS**
+COMPLETAR
 
 * **Sérgio Almeida **: ??%
 * **Matilde Silva**: ??%
