@@ -1,7 +1,7 @@
 # LDTS_L01G07 - RunCollector
 
 <p align="center">
-<img src="./docs/resources/mockups/logo.png"/>
+<img src=""/>   meter imagem do logo do jogo
 </p>
 
 **RunCollector** is a 2D platformer game where the player collects coins while navigating through levels filled with sharp spikes. The main objective is to collect as many coins as possible while avoiding obstacles that could lead to a **Game Over**. With increasing difficulty across levels, the game challenges the player to achieve the highest possible score.
