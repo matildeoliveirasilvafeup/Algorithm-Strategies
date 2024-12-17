@@ -59,18 +59,20 @@
   * Used pixel art mockups for characters, coins, obstacles, and various scenarios.
   * Character images: **16x16 pixels**.
   * Game levels: **64x64 pixels**.
-    * Characters and level design created with pixel art:
--Menu
--Running in Front (D)
-![IMG-20241122-WA0041](https://github.com/user-attachments/assets/0b8ce8d4-558f-44f1-af59-c7de05402c76)
--Running backwards (A)
-![IMG-20241122-WA0042](https://github.com/user-attachments/assets/3948330a-c2c4-4b2c-ab3b-4f9f21d9810d)
--Jump (W)
-![IMG-20241122-WA0039](https://github.com/user-attachments/assets/06c21202-536e-4f2a-9ad9-141dc0c18e96)
--Collecting coins 
-![IMG-20241122-WA0043](https://github.com/user-attachments/assets/f2463dae-0122-4e67-853d-b8d77d8df71f)
--Game Over
-![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
+    
+    Characters and level design created with pixel art:
+    -Menu
+    -Running in Front (D)
+    ![IMG-20241122-WA0041](https://github.com/user-attachments/assets/0b8ce8d4-558f-44f1-af59-c7de05402c76)
+    -Running backwards (A)
+    ![IMG-20241122-WA0042](https://github.com/user-attachments/assets/3948330a-c2c4-4b2c-ab3b-4f9f21d9810d)
+    -Jump (W)
+    ![IMG-20241122-WA0039](https://github.com/user-attachments/assets/06c21202-536e-4f2a-9ad9-141dc0c18e96)
+    -Collecting coins 
+    ![IMG-20241122-WA0043](https://github.com/user-attachments/assets/f2463dae-0122-4e67-853d-b8d77d8df71f)
+    -Game Over
+    ![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
+
 
 ### **Design Patterns**
 
