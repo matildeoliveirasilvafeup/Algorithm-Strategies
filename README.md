@@ -4,7 +4,12 @@
 <img src=""/>   meter imagem do logo do jogo
 </p>
 
-**RunCollector** is a 2D platformer game where the player collects coins while navigating through levels filled with sharp spikes. The main objective is to collect as many coins as possible while avoiding obstacles that could lead to a **Game Over**. With increasing difficulty across levels, the game challenges the player to achieve the highest possible score.
+<h1 align="center">
+  LDTS_L01G07 - RunCollector
+</h1>
+
+
+**RunCollector** is a game where the player collects coins while navigating through levels filled with sharp spikes. The main objective is to collect as many coins as possible while avoiding obstacles that could lead to a Game Over. With increasing difficulty across levels, the game challenges the player to achieve the highest possible score.
 
 > Developed by **Matilde Silva** (up202305722@edu.fe.up.pt), **Sérgio Almeida** (up202305946@edu.fe.up.pt), and **Tiago Almeida** (up202303450@edu.fe.up.pt) for **LDTS 2024** at **FEUP**.
 ---
@@ -98,16 +103,7 @@
 ## **IMPLEMENTATION**
 
 * The code follows object-oriented principles and leverages design patterns to ensure modularity and clarity.
-
----
-
-## **RESULTS**
-
-* Intermediate Delivery (10%): **20.0/20**
-* Final Product (60%): **19.1/20**
-* Final Report (30%): **20.0/20**
-* **Final Grade**: **19.5/20**
-
+  
 ---
 
 ## **KNOWN ISSUES**
@@ -122,79 +118,15 @@
 
 ---
 
-## **TEAM CONTRIBUTIONS**
-
-* **Matilde Silva**: ??%
-* **Tiago Almeida**: ??%
-* **Sérgio Almeida**: ??%
-
----
-
 ## **RESOURCES**
 
 * **Tools**:
   * **Lanterna**: Used for graphical interface and gameplay rendering.
     
-#### **Padrões de Design**
-5. ?????
-Foram utilizados os seguintes padrões de design:
-### **Modelo-Visão-Controlador (MVC)**
-- A separação das responsabilidades do jogo em três camadas principais:
-  - **Modelo**: lógica do jogo e gestão de dados.
-  - **Visão**: interface gráfica e apresentação dos elementos.
-  - **Controlador**: manipulação de eventos e coordenação entre modelo e visão.
-
-### **Singleton**
-- Utilização do padrão **Singleton** para a **gestão do estado do jogo**, permitindo que informações como a pontuação, o nível e o progresso sejam acessíveis de forma centralizada.
-
----
-#### **Implementação**
-6.????
-O código foi estruturado com base em princípios de design orientados a objetos, utilizando os padrões para modularizar as diferentes partes do sistema.
-
-#### **Consequências**
-7.???
-Esses padrões trouxeram maior clareza ao código, facilitaram a manutenção e a adição de novas funcionalidades.
-
 ---
 
-### **Observadores e Listeners**
-8.???
-O padrão **?** foi utilizado para tratar a comunicação eficiente entre os eventos de input e o estado do jogo.
----
+## **TEAM CONTRIBUTIONS**
 
-### **Diferentes Tipos de Comandos**
-9.???
-???O padrão **?** foi utilizado para tratar as interações do jogador com o jogo...???
-
----
-
-### Interface Gráfica (GUI)
-10.??
-???O padrão **?** foi aplicado para simplificar a interação com a biblioteca Lanterna, tornando o código mais organizado.
-
----
-## Problemas conhecidos de código
-
-Todos os erros conhecidos foram corrigidos, e não há problemas significativos no código.
-
----
-
-## Testes
-11.
-???
-
-### Testes de mutação
-12.
-??
----
-
-## Autoavaliação
-13.
-??
-A distribuição de tarefas foi feita de forma ??. Este trabalho ajudou a melhorar os nossos conhecimentos em Java e em princípios de design.
-
-- **Matilde Silva**: ?%
-- **Sérgio Almeida**: ?%
-- **Tiago Almeida**: ?%
-
+* **Sérgio Almeida **: ??%
+* **Matilde Silva**: ??%
+* **Sérgio Almeida**: ??%
