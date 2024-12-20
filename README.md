@@ -1,5 +1,5 @@
 <h1 align="center">
-  LDTS_L03G05 - RunCollector
+  LDTS_L03G05 - Jumping Jack
 </h1>
 
 ## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: IMPLEMENTED FEATURES, MOCKUPS, TESTS, UML, SELF EVALUATION**
@@ -9,7 +9,7 @@
 </p>
 
 
-**RunCollector** is a game where players collect coins while navigating through levels filled with sharp spikes and other hazards. The main objective is to gather as many coins as possible while skillfully avoiding obstacles that could lead to a Game Over. With progressively difficulty, **RunCollector** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score.
+**Jumping Jack** is a game where players collect coins while navigating through levels filled with sharp spikes and other hazards. The main objective is to gather as many coins as possible while skillfully avoiding obstacles that could lead to a Game Over. With progressively difficulty, **Jumping Jack** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score.
 
 > Developed by **Matilde Silva** (up202305722@edu.fe.up.pt), **Sérgio Almeida** (up202305946@edu.fe.up.pt), and **Tiago Almeida** (up202303450@edu.fe.up.pt) for **LDTS 2024** at **FEUP**.
 ---
