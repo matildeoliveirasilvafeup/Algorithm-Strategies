@@ -53,22 +53,25 @@
     
 * **Mockups**:
   -Menu
-  ![image](https://github.com/user-attachments/assets/d61d6501-5008-43da-8574-5676347a1836)
+  ![image](https://github.com/user-attachments/assets/4e65e5ed-a3d9-48b5-ae70-44e42a693fe8)
 
   -Levels
-  ![image](https://github.com/user-attachments/assets/a80dd70b-1032-47b8-a3fb-22e855609c5e)
+  ![image](https://github.com/user-attachments/assets/ce295470-6a21-4078-8495-0310317488b8)
 
   -Instructions
-  ![image](https://github.com/user-attachments/assets/5f968aff-387b-4533-8f72-e45cf3ce2cf9) (> arrow to run in front)
-  ![image](https://github.com/user-attachments/assets/1d7dac38-5087-4e2e-98c9-9b33c9c5af0b) (^ arrow to jump)
+  (> arrow to run in front)
+  ![image](https://github.com/user-attachments/assets/5f968aff-387b-4533-8f72-e45cf3ce2cf9)
+  
+  (^ arrow to jump for the green platform, otherwise the player will loose, by falling in the hole)
+  ![image](https://github.com/user-attachments/assets/1d7dac38-5087-4e2e-98c9-9b33c9c5af0b)
+
+  (the player lose if he doesn't jump over the spike)
   ![image](https://github.com/user-attachments/assets/679696ba-327f-4947-9804-95b25039c50d)
+  (once the player loose, it shows that the character died)
+  ![image](https://github.com/user-attachments/assets/4654b976-a382-4def-b9da-a97ab5cbdd87)
+
+  
   ![image](https://github.com/user-attachments/assets/b098799e-6a13-450a-985c-0eece7d10544)
-
-
-  
-
-  
-
 
   
 
