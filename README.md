@@ -4,7 +4,7 @@
 
 ## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: IMPLEMENTED FEATURES, MOCKUPS, TESTS, UML, SELF EVALUATION**
 
-**Jumping Jack** is a game where players collect coins while navigating through levels filled with sharp spikes and other hazards. The main objective is to gather as many coins as possible while skillfully avoiding obstacles that could lead to a Game Over. With progressively difficulty, **Jumping Jack** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score.
+**Jumping Jack** is a 2D platform game where players collect coins while navigating through levels filled with sharp spikes and holes. The main goal is to gather as many coins as possible while skillfully avoiding obstacles that could lead to a Game Over. With progressively difficulty, **Jumping Jack** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score in order to see the suprising ending.
 
 > Developed by **Matilde Silva** (up202305722@edu.fe.up.pt), **Sérgio Almeida** (up202305946@edu.fe.up.pt), and **Tiago Almeida** (up202303450@edu.fe.up.pt) for **LDTS 2024** at **FEUP**.
 ---
@@ -12,30 +12,36 @@
 ## **IMPLEMENTED FEATURES**
 
 * **Character Movement**:
-  * `W`: Jump
-  * `A`: Move left
-  * `D`: Move right
+  * `^`: Jump
+  * `<`: Move left
+  * `>`: Move right
 
 * **Main Menu**:
   * Navigate with arrow keys (up and down).
   * Options:
-    * **Play**: Start the game
+    * **Play**: Start the game in level 1
     * **Exit**: Exit the game
     * **Levels**: Access different levels
-
-* **User Interaction**:
-  * Use `W`, `A`, `D` for in-game actions.
-  * Use arrow keys for menu navigation.
-  * Press `Escape` to exit the game.
-
+  *Escape to stop exectuting the game.
+      
+* **Platforms**:
+  *
+      
 * **Collision Detection**:
   * Detects when the player touches spikes, restarting the level.
 
 * **Levels**:
-  * Progressive difficulty with increasingly challenging obstacles.
+  * There are 10 different levels with progressive difficulty by increasing challenging obstacles.
 
-FAZER
+* **Spikes and Holes**:
+  *
 
+
+* **Coins**:
+  * + sound of collecting coin
+
+* **Gravity**:
+  *
 ---
 
 ## **DESIGN**
@@ -44,10 +50,31 @@ FAZER
 
 * **Problem Context**:
   * Designing an interactive and dynamic environment was challenging, especially ensuring smooth movement and responsive collision mechanics.
+    
+* **Mockups**:
+  -Menu
+  ![image](https://github.com/user-attachments/assets/d61d6501-5008-43da-8574-5676347a1836)
 
-* **Mockups in Pixel Art**:
-  * Used pixel art mockups for menu, character, coins, obstacles, different scenarios.
-  Characters and level design created with pixel art:
+  -Levels
+  ![image](https://github.com/user-attachments/assets/a80dd70b-1032-47b8-a3fb-22e855609c5e)
+
+  -Instructions
+  ![image](https://github.com/user-attachments/assets/5f968aff-387b-4533-8f72-e45cf3ce2cf9) (> arrow to run in front)
+  ![image](https://github.com/user-attachments/assets/1d7dac38-5087-4e2e-98c9-9b33c9c5af0b) (^ arrow to jump)
+  ![image](https://github.com/user-attachments/assets/679696ba-327f-4947-9804-95b25039c50d)
+  ![image](https://github.com/user-attachments/assets/b098799e-6a13-450a-985c-0eece7d10544)
+
+
+  
+
+  
+
+
+  
+
+
+* **Not implemented features: Mockups in Pixel Art**:
+  * In our project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations.
 
     -Menu
     ![IMG-20241217-WA0010](https://github.com/user-attachments/assets/6a8f33c1-c9c2-4e32-b5cd-518d36dc4fc5)
