@@ -2,7 +2,7 @@
   LDTS_L03G05 - Jumping Jack
 </h1>
 
-## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: IMPLEMENTED FEATURES, MOCKUPS, TESTS, UML, SELF EVALUATION**
+## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: IMPLEMENTED FEATURES, TESTS, UML, SELF EVALUATION**
 
 **Jumping Jack** is a 2D platform game where players collect coins while navigating through levels filled with sharp spikes and holes. The main goal is to gather as many coins as possible while skillfully avoiding obstacles that could lead to a Game Over. With progressively difficulty, **Jumping Jack** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score in order to see the suprising ending.
 
@@ -48,9 +48,6 @@
 
 ### **General Structure**
 
-* **Problem Context**:
-  * Designing an interactive and dynamic environment was challenging, especially ensuring smooth movement and responsive collision mechanics.
-    
 * **Mockups**:
   -Menu
   ![image](https://github.com/user-attachments/assets/4e65e5ed-a3d9-48b5-ae70-44e42a693fe8)
@@ -59,25 +56,28 @@
   ![image](https://github.com/user-attachments/assets/ce295470-6a21-4078-8495-0310317488b8)
 
   -Instructions
+  
   (> arrow to run in front)
   ![image](https://github.com/user-attachments/assets/5f968aff-387b-4533-8f72-e45cf3ce2cf9)
   
-  (^ arrow to jump for the green platform, otherwise the player will loose, by falling in the hole)
+  (^ arrow to jump for the green platform, otherwise the character will loose, by falling in the hole)
   ![image](https://github.com/user-attachments/assets/1d7dac38-5087-4e2e-98c9-9b33c9c5af0b)
 
-  (the player lose if he doesn't jump over the spike)
+  (the player must jump over the spike, otherwise the character will loose)
   ![image](https://github.com/user-attachments/assets/679696ba-327f-4947-9804-95b25039c50d)
-  (once the player loose, it shows that the character died)
+
+  (the player must collect all the coins for a surprising end
+  ![image](https://github.com/user-attachments/assets/26105d58-7c79-43b0-9e73-d6107103094a)
+
+  (once the character loose, it shows that the character died)
   ![image](https://github.com/user-attachments/assets/4654b976-a382-4def-b9da-a97ab5cbdd87)
 
   
-  ![image](https://github.com/user-attachments/assets/b098799e-6a13-450a-985c-0eece7d10544)
-
-  
-
-
-* **Not implemented features: Mockups in Pixel Art**:
-  * In our project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations.
+* **Problem Context**:
+  * Designing an interactive and dynamic environment was challenging, especially ensuring smooth movement and responsive collision mechanics.
+    
+  * **Not implemented features: Mockups in Pixel Art**:
+    * In our project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations.
 
     -Menu
     ![IMG-20241217-WA0010](https://github.com/user-attachments/assets/6a8f33c1-c9c2-4e32-b5cd-518d36dc4fc5)
