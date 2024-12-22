@@ -25,13 +25,13 @@
     * **Levels**: Access 10 different levels
       
 * **Platforms**:
-  *
+  * There are green platforms that provide a safe way to reach higher areas and avoid dangerous obstaclesn and even uncover hidden coins along the way.
       
 * **Collision Detection**:
   * Detects when the player touches spikes, restarting the level.
 
 * **Levels**:
-  * There are 10 different levels with progressive difficulty by increasing challenging obstacles.
+  * There are 10 different levels with progressive difficulty by increasing challenging obstacles. If the player loses in one level, the game will restart from that one level.
 
 * **Spikes and Holes**:
   *
@@ -77,7 +77,7 @@
   * Designing an interactive and dynamic environment was challenging, especially ensuring smooth movement and responsive collision mechanics.
     
   * **Not implemented features: Mockups in Pixel Art**:
-    * In our project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations.
+    * In our project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations. We have decided to keep these pixel art mockups as part of our project documentation. They were instrumental in helping us visualize our desired game mechanics and aesthetics, and as such, they have become an integral part of our development process.
 
     -Menu
     ![IMG-20241217-WA0010](https://github.com/user-attachments/assets/6a8f33c1-c9c2-4e32-b5cd-518d36dc4fc5)
