@@ -18,11 +18,11 @@
 
 * **Main Menu**:
   * Navigate with arrow keys (up and down).
+  * **Escape**: to stop exectuting the game.
   * Options:
     * **Play**: Start the game in level 1
     * **Exit**: Exit the game
-    * **Levels**: Access different levels
-  *Escape to stop exectuting the game.
+    * **Levels**: Access 10 different levels
       
 * **Platforms**:
   *
