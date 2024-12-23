@@ -4,7 +4,7 @@
 
 ## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: TESTS, UML, SELF EVALUATION**
 
-**Jumping Jack** is a 2D platform game where players collect coins while navigating through levels filled with sharp spikes and holes. The main goal is to gather as many coins as possible while skillfully avoiding obstacles that could lead to a Game Over. With progressively difficulty, **Jumping Jack** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score in order to see the suprising ending.
+**Jumping Jack** is a 2D platform game where players collect coins while navigating through levels filled with spikes and holes. The main goal is to collect as many coins as possible while avoiding obstacles that could lead to a Game Over. With increasing difficulty, **Jumping Jack** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score in order to unlock a suprising ending.
 
 > Developed by **Matilde Silva** (up202305722@edu.fe.up.pt), **Sérgio Almeida** (up202305946@edu.fe.up.pt), and **Tiago Almeida** (up202303450@edu.fe.up.pt) for **LDTS 2024** at **FEUP**.
 ---
@@ -12,12 +12,15 @@
 ## **IMPLEMENTED FEATURES**
 
 * **Main Menu**:
-  * Navigate with arrow keys (up and down).
+  * **Navigation**: use the up and down arrow keys.
+  * **Commands**:
+    * **Enter**: Select an option.
+    * **Escape**: Exit the game.
   * **Escape**: to stop exectuting the game.
-  * Options:
-    * **Play**: Start the game in level 1
-    * **Exit**: Exit the game
-    * **Levels**: Access 10 different levels
+  * **Options**:
+    * **Play**: Start the game at level 1.
+    * **Exit**: Exit the game.
+    * **Levels**: Access 10 different levels.
 
 * **Character Movement**:
   * `^`: Jump
@@ -25,22 +28,21 @@
   * `>`: Move right
       
 * **Platforms**:
-  * There are green platforms that provide a safe way to reach higher areas and avoid dangerous obstaclesn and even uncover hidden coins along the way.
+  * Green platforms were implemented to provide a safe way to reach higher areas, helping avoid dangerous obstaclesn and even uncover hidden coins along the way.
 
 * **Spikes and Holes**:
   * The strategic placement of spikes and holes enhances the game's level design, forcing players to carefully navigate their environment and overcome these obstacles to progress.
       
 * **Collision Detection**:
-  * Detects when the player touches spikes, restarting the level.
-
+  * Detects when the player collides with spikes, causing the level to restart.
 * **Levels**:
-  * There are 10 different levels with progressive difficulty by increasing challenging obstacles. If the player loses in one level, the game will restart from that one level.
+  * The gane includes 10 lwvwla with progressive difficulty by increasing challenging obstacles. If the player loses in one level, the game will restart from that one level.
     
 * **Coins**:
-  * + sound of collecting coin
-
+  * Collecting coins rewards the player, with a sound effect when a coin is collected.
+    
 * **Gravity**:
-  * A realistic physics system was implemented, where gravity is activated upon the player character's jump, causing a downward trajectory until the character lands or collides with an object.
+  * A realistic gravity system is implemented, causing the character to fall after jumping until they land or hit an obstacle.
 ---
 
 ## **DESIGN**
@@ -73,10 +75,10 @@
 
   
 * **Problem Context**:
-  * Designing an interactive and dynamic environment was challenging, especially ensuring smooth movement and responsive collision mechanics.
+  * Designing an interactive and dynamic environment was challenging, particularly ensuring smooth character movement and responsive collision detection.
     
   * **Not implemented features: Mockups in Pixel Art**:
-    * In our project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations. We have decided to keep these pixel art mockups as part of our project documentation. They were instrumental in helping us visualize our desired game mechanics and aesthetics, and as such, they have become an integral part of our development process.
+    * In this project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations. We have decided to keep these pixel art mockups as part of our project documentation. They were instrumental in helping us visualize our desired game mechanics and aesthetics, and as such, they have become an integral part of our development process.
 
     -Menu
     ![IMG-20241217-WA0010](https://github.com/user-attachments/assets/6a8f33c1-c9c2-4e32-b5cd-518d36dc4fc5)
@@ -118,12 +120,6 @@
 
 ---
 
-## **KNOWN ISSUES**
-
-* No significant bugs were identified during testing.
-
----
-
 ## **TESTING**
 FAZER
 
@@ -140,3 +136,7 @@ FAZER
 
 ## **UML CLASS STRUCTURES AND OVERVIEW**
 FAZER
+---
+
+## **CONCLUSION**
+In conclusion, the development of Jumping Jack has been an interesting and valuable experience. Throughout the project, we explored various aspects of game development, from implementing core mechanics to organizing the code with design patterns. We found the process rewarding, as it allowed us to apply theoretical concepts in a practical setting.
