@@ -51,26 +51,33 @@
 
 * **Mockups**:
   -Menu
+  
   ![image](https://github.com/user-attachments/assets/4e65e5ed-a3d9-48b5-ae70-44e42a693fe8)
 
   -Levels
+  
   ![image](https://github.com/user-attachments/assets/ce295470-6a21-4078-8495-0310317488b8)
 
   -Instructions
   
   (> arrow to run in front)
+  
   ![image](https://github.com/user-attachments/assets/5f968aff-387b-4533-8f72-e45cf3ce2cf9)
   
   (^ arrow to jump for the green platform, otherwise the character will loose, by falling in the hole)
+  
   ![image](https://github.com/user-attachments/assets/1d7dac38-5087-4e2e-98c9-9b33c9c5af0b)
 
   (the player must jump over the spike, otherwise the character will loose)
+  
   ![image](https://github.com/user-attachments/assets/679696ba-327f-4947-9804-95b25039c50d)
 
-  (the player must collect all the coins for a surprising end
+  (the player must collect all the coins for a surprising end)
+  
   ![image](https://github.com/user-attachments/assets/26105d58-7c79-43b0-9e73-d6107103094a)
 
   (once the character loose, it shows that the character died)
+  
   ![image](https://github.com/user-attachments/assets/4654b976-a382-4def-b9da-a97ab5cbdd87)
 
   
@@ -81,21 +88,27 @@
     * In this project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations. We have decided to keep these pixel art mockups as part of our project documentation. They were instrumental in helping us visualize our desired game mechanics and aesthetics, and as such, they have become an integral part of our development process.
 
     -Menu
+    
     ![IMG-20241217-WA0010](https://github.com/user-attachments/assets/6a8f33c1-c9c2-4e32-b5cd-518d36dc4fc5)
     
     -Running in Front (D)
+    
     ![IMG-20241122-WA0041](https://github.com/user-attachments/assets/0b8ce8d4-558f-44f1-af59-c7de05402c76)
     
     -Running backwards (A)
+    
     ![IMG-20241122-WA0042](https://github.com/user-attachments/assets/3948330a-c2c4-4b2c-ab3b-4f9f21d9810d)
     
     -Jump (W)
+    
     ![IMG-20241122-WA0039](https://github.com/user-attachments/assets/06c21202-536e-4f2a-9ad9-141dc0c18e96)
     
-    -Collecting coins 
+    -Collecting coins
+    
     ![IMG-20241122-WA0043](https://github.com/user-attachments/assets/f2463dae-0122-4e67-853d-b8d77d8df71f)
     
     -The player lose if he doesn't jump over the spike
+    
     ![IMG-20241122-WA0040](https://github.com/user-attachments/assets/39ddf583-f01e-45bb-a39c-d26bc911a4d0)
 
 
