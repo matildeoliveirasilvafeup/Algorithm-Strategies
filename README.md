@@ -2,7 +2,7 @@
   LDTS_L03G05 - Jumping Jack
 </h1>
 
-## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: IMPLEMENTED FEATURES, TESTS, UML, SELF EVALUATION**
+## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: TESTS, UML, SELF EVALUATION**
 
 **Jumping Jack** is a 2D platform game where players collect coins while navigating through levels filled with sharp spikes and holes. The main goal is to gather as many coins as possible while skillfully avoiding obstacles that could lead to a Game Over. With progressively difficulty, **Jumping Jack** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score in order to see the suprising ending.
 
@@ -11,11 +11,6 @@
 
 ## **IMPLEMENTED FEATURES**
 
-* **Character Movement**:
-  * `^`: Jump
-  * `<`: Move left
-  * `>`: Move right
-
 * **Main Menu**:
   * Navigate with arrow keys (up and down).
   * **Escape**: to stop exectuting the game.
@@ -23,25 +18,29 @@
     * **Play**: Start the game in level 1
     * **Exit**: Exit the game
     * **Levels**: Access 10 different levels
+
+* **Character Movement**:
+  * `^`: Jump
+  * `<`: Move left
+  * `>`: Move right
       
 * **Platforms**:
   * There are green platforms that provide a safe way to reach higher areas and avoid dangerous obstaclesn and even uncover hidden coins along the way.
+
+* **Spikes and Holes**:
+  * The strategic placement of spikes and holes enhances the game's level design, forcing players to carefully navigate their environment and overcome these obstacles to progress.
       
 * **Collision Detection**:
   * Detects when the player touches spikes, restarting the level.
 
 * **Levels**:
   * There are 10 different levels with progressive difficulty by increasing challenging obstacles. If the player loses in one level, the game will restart from that one level.
-
-* **Spikes and Holes**:
-  *
-
-
+    
 * **Coins**:
   * + sound of collecting coin
 
 * **Gravity**:
-  *
+  * A realistic physics system was implemented, where gravity is activated upon the player character's jump, causing a downward trajectory until the character lands or collides with an object.
 ---
 
 ## **DESIGN**
@@ -141,10 +140,3 @@ FAZER
 
 ## **UML CLASS STRUCTURES AND OVERVIEW**
 FAZER
-
-## **TEAM CONTRIBUTIONS**
-COMPLETAR
-
-* **Sérgio Almeida **: ??%
-* **Matilde Silva**: ??%
-* **Tiago Almeida**: ??%
