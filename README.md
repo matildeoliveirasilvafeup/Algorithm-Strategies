@@ -2,8 +2,6 @@
   LDTS_L03G05 - Jumping Jack
 </h1>
 
-## **FAZER ATÉ DIA 24 12:00 -> EM FALTA: TESTS, UML, SELF EVALUATION**
-
 **Jumping Jack** is a 2D platform game where players collect coins while navigating through levels filled with spikes and holes. The main goal is to collect as many coins as possible while avoiding obstacles that could lead to a Game Over. With increasing difficulty, **Jumping Jack** offers an engaging experience, testing players' reflexes and strategy as they strive to achieve the highest score in order to unlock a suprising ending.
 
 > Developed by **Matilde Silva** (up202305722@edu.fe.up.pt), **Sérgio Almeida** (up202305946@edu.fe.up.pt), and **Tiago Almeida** (up202303450@edu.fe.up.pt) for **LDTS 2024** at **FEUP**.
@@ -152,4 +150,4 @@ FAZER
 ---
 
 ## **CONCLUSION**
-In conclusion, the development of Jumping Jack has been an interesting and valuable experience. Throughout the project, we explored various aspects of game development, from implementing core mechanics to organizing the code with design patterns. We found the process rewarding, as it allowed us to apply theoretical concepts in a practical setting.
+To conclude, the development of Jumping Jack has been an interesting and valuable experience. Throughout the project, we explored various aspects of game development, from implementing core mechanics to organizing the code with design patterns. We found the process rewarding, as it allowed us to apply theoretical concepts in a practical setting.
