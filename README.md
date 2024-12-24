@@ -74,7 +74,7 @@
   
   ![image](https://github.com/user-attachments/assets/26105d58-7c79-43b0-9e73-d6107103094a)
 
-  (once the character loose, it shows that the character died)
+  (once the player loose, it shows that the character died)
   
   ![image](https://github.com/user-attachments/assets/4654b976-a382-4def-b9da-a97ab5cbdd87)
 
