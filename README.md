@@ -10,11 +10,11 @@
 ## **IMPLEMENTED FEATURES**
 
 * **Main Menu**:
-  * **Navigation**: use the up and down arrow keys.
+  * **Navigation**: the user must use the up and down arrow keys through the 3 different options: Play, Exit and Levels.
   * **Commands**:
     * **Enter**: Select an option.
     * **Escape**: Exit the game.
-  * **Escape**: to stop exectuting the game.
+  * **Escape**: to stop executing the game.
   * **Options**:
     * **Play**: Start the game at level 1.
     * **Exit**: Exit the game.
@@ -34,7 +34,7 @@
 * **Collision Detection**:
   * Detects when the player collides with spikes, causing the level to restart.
 * **Levels**:
-  * The gane includes 10 lwvwla with progressive difficulty by increasing challenging obstacles. If the player loses in one level, the game will restart from that one level.
+  * The game includes 10 levels with progressively increasing difficulty through more challenging obstacles. If the player loses in one level, the game will restart from that one level.
     
 * **Coins**:
   * Collecting coins rewards the player, with a sound effect when a coin is collected.
@@ -48,7 +48,7 @@
 ### **General Structure**
 
 * **Mockups**:
-  -Menu
+  -Menu Screen Mockup
   
   ![image](https://github.com/user-attachments/assets/4e65e5ed-a3d9-48b5-ae70-44e42a693fe8)
 
@@ -62,7 +62,7 @@
   
   ![image](https://github.com/user-attachments/assets/5f968aff-387b-4533-8f72-e45cf3ce2cf9)
   
-  (^ arrow to jump for the green platform, otherwise the character will loose, by falling in the hole)
+  (^ arrow to jump for the green platform, otherwise the character will lose, by falling in the hole)
   
   ![image](https://github.com/user-attachments/assets/1d7dac38-5087-4e2e-98c9-9b33c9c5af0b)
 
@@ -79,13 +79,11 @@
   ![image](https://github.com/user-attachments/assets/4654b976-a382-4def-b9da-a97ab5cbdd87)
 
   
-* **Problem Context**:
+* **Problem in Context**:
   * Designing an interactive and dynamic environment was challenging, particularly ensuring smooth character movement and responsive collision detection.
-    
-  * **Not implemented features: Mockups in Pixel Art**:
-    * In this project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations. We have decided to keep these pixel art mockups as part of our project documentation. They were instrumental in helping us visualize our desired game mechanics and aesthetics, and as such, they have become an integral part of our development process.
+  * In this project, we aimed to incorporate pixel art mockups to enhance the game's visual appeal. However, given our limited experience in pixel art and the project's other priorities, we opted for a more basic design approach. This decision allowed us to focus on core gameplay mechanics and ensure a timely delivery. So these are features we're keen to delve deeper into for future implementations. We have decided to keep these pixel art mockups as part of our project documentation. They were instrumental in helping us visualize our desired game mechanics and aesthetics, and as such, they have become an integral part of our development process.
 
-    -Menu
+    -Menu Screen Mockup
     
     ![IMG-20241217-WA0010](https://github.com/user-attachments/assets/6a8f33c1-c9c2-4e32-b5cd-518d36dc4fc5)
     
@@ -111,30 +109,32 @@
 
 
 ### **Design Patterns**
+The use of the following patterns allowed and easy way of adding new features, and a more organized code structure, improving both maintainability and flexibility throughout the project.
 
 * **Model-View-Controller (MVC)**:
-  * **Model**: Handles game logic and data management.
-  * **View**: Manages graphical representation.
-  * **Controller**: Handles event management and coordination.
+  * **Model**: Used for game logic and data management. It encapsulates the core functionalities, including the game mechanics, level progress, and player state.
+  * **View**: Manages graphical representation on the screen. The use of Lanterna helps in creating the graphical interface while ensuring the game remains text-based.
+  * **Controller**: Handles event management and coordinatinates user input with the appropriate actions in the game. It serves as the intermediary between the view and the model, processing key presses.
 
 * **Singleton**:
-  * Centralized management of game state, including score, level, and progress.
+  * Centralized management of game state, including level, and player progress. Throughout the game, only one object controls the game's global state, which can be accessed from anywhere in the program.
 
 * **Observer**:
-  * Efficient event handling between player input and game state.
-
+  * Allows efficient event handling between the player input and the game state. By using this pattern, multiple components of the game (such as the player character, enemies, and the game world) can subscribe to and listen for changes in the game state. Only the relevant components are notified when changes occur, optimizing performance.
+    
 * **Command**:
-  * Manages interactions between the player and the game.
+  * Manages interactions between the player and the game. User input (e.g., pressing a key) is translated into a command object that encapsulates an action to be executed. 
 
 * **Facade**:
-  * Simplifies interaction with the **Lanterna** library for better code organization.
+  * Simplifies interaction with the **Lanterna** library for better code organization, providing a higher-level interface for handling graphics, input, and screen updates. 
 
 ---
 
-## **TESTING** FAZER
+## **TESTING** 
 
 
-* Mutation testing was conducted to ensure code robustness.
+* Mutation testing was conducted to ensure code robustness. We used **Pitest** for mutation testing, which helped identify potential weaknesses in our code by introducing artificial changes (mutations) and checking if the tests could detect them. This process helped improve the reliability of our code by ensuring that it could withstand unexpected changes.
+
 
 ---
 
@@ -142,10 +142,11 @@
 
 * **Tools**:
   * **Lanterna**: Used for graphical interface and gameplay rendering.
+  * **Pitest**: Used for mutation testing to improve code quality.
     
 ---
 
-## **UML CLASS STRUCTURES AND OVERVIEW** FAZER
+## **UML CLASS STRUCTURES AND OVERVIEW** 
 
 ---
 
