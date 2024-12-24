@@ -131,8 +131,8 @@
 
 ---
 
-## **TESTING**
-FAZER
+## **TESTING** FAZER
+
 
 * Mutation testing was conducted to ensure code robustness.
 
@@ -145,8 +145,8 @@ FAZER
     
 ---
 
-## **UML CLASS STRUCTURES AND OVERVIEW**
-FAZER
+## **UML CLASS STRUCTURES AND OVERVIEW** FAZER
+
 ---
 
 ## **CONCLUSION**
