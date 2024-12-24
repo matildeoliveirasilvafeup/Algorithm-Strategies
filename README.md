@@ -147,9 +147,9 @@ The use of the following patterns allowed and easy way of adding new features, a
 ---
 
 ## **UML CLASS STRUCTURES AND OVERVIEW** 
+![uml](https://github.com/user-attachments/assets/347edb2c-fa90-4b08-b5c9-d8c65a8a68a9)
 
 ---
 
 ## **CONCLUSION**
 To conclude, the development of Jumping Jack has been an interesting and valuable experience. Throughout the project, we explored various aspects of game development, from implementing core mechanics to organizing the code with design patterns. We found the process rewarding, as it allowed us to apply theoretical concepts in a practical setting.
-![java.png](../../Downloads/java.png)
